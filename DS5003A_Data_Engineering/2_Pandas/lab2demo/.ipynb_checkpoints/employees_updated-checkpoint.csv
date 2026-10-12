@@ -1,0 +1,11 @@
+Emp_ID,Employee,Department,Age,Experience,Salary,Performance,Annual_Salary,Bonus_Eligible
+1001,Aarav,HR,26,2,42000,Good,504000,No
+1002,Diya,Finance,31,7,65000,Excellent,780000,Yes
+1003,Kabir,IT,28,4,58000,Good,696000,No
+1004,Meera,Marketing,35,10,72000,Excellent,864000,Yes
+1005,Rohan,IT,24,1,40000,Average,480000,No
+1006,Sneha,Finance,29,5,61000,Good,732000,No
+1007,Vikram,HR,33,8,67000,Excellent,804000,Yes
+1008,Ananya,Marketing,27,3,50000,Average,600000,No
+1009,Rahul,IT,30,6,64000,Good,768000,No
+1010,Priya,Finance,25,2,45000,Average,540000,No
